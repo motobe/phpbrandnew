@@ -46,3 +46,7 @@ $ composer dump-autoload
 - 独自のクラス/名前空間定義でオートロードを体験してみよう
 - 様々なViewファイルの書き方、値の割り当てを試してみよう。
 - 独自のコマンドファイルを作成してみよう。
+- 
+# link trial
+http://google.com/
+google('http://google.com')
